@@ -14,9 +14,6 @@ It's a work-in-progress, something designed to be touched by anyone in our commu
 
 I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the Navigo community! You're here because success isn't possible without you.
 
-To infinity (and bitcoin).
-
-John // Chief Cartridge Blower
 
 [Feel free to [email me](mailto:biyagapatrick@gmail.com) at any time!]
 
