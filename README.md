@@ -139,7 +139,7 @@ Young doctor, I graduated from the Faculty of Medicine and Biomedical Sciences o
 I am very happy to be able to bring my expertise to this project in order to bring it very high as an African achievement. I am also in service in a place where I practice my profession as a doctor in order to learn even more from my Peers.
 
 
-#### MMBAMBA Ivan Christian - Co-Founder / CMO - [LinkedIn](#)
+#### MMAMBA Ivan Christian - Co-Founder / CMO - [LinkedIn](#)
 
 
 I'm the CMO, the Chief Marketing Officer. I don't just run the marketing department. Indeed, my primary objective is to achieve growth and I have an obligation to refer to the COOs and even the CEO. I can therefore intervene in the sales department to make the company more productive.
