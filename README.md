@@ -1,7 +1,5 @@
 # Our Company Handbook
-*A Collaborative Handbook for our Team & Community*
-
-This `handbook` has gone through a number of changes over the years and this version is no exception! This version _should_ be the most "usable" as there's only a few pages to review (and update...)!
+*A Collaborative Handbook for our SeeDoc Team & Community*
 
 This repository serves these purposes:
 
@@ -12,8 +10,7 @@ This repository serves these purposes:
 
 It's a work-in-progress, something designed to be touched by anyone in our community. I'm particularly interested in getting feedback from new community members as you all will see things that the current team may unintentionally (and intentionally) ignore! Please help us identify our blindspots and **question everything**—[kaizen](https://en.wikipedia.org/wiki/Kaizen)!
 
-I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the SeeDoc community! You're here because success isn't possible without you.
-
+I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the Navigo community! You're here because success isn't possible without you.
 
 [Feel free to [email me](mailto:biyagapatrick@gmail.com) at any time!]
 
@@ -40,7 +37,7 @@ I'm so grateful that you're here and that you've decided to commit a season of y
 3. [Our Story](https://github.com/patbi/handbook#our-story)
 4. [Employment (Compensation and Benefits)](https://github.com/patbi/handbook/blob/master/1-employment.md)
 5. [Cultural Quirks](https://github.com/patbi/handbook#cultural-quirks)
-9. [Policy Changes, Legal Stuff](https://github.com/patbi/handbook#policy-changes-and-legal-stuff)
+6. [Policy Changes, Legal Stuff](https://github.com/patbi/handbook#policy-changes-and-legal-stuff)
 
 
 
@@ -75,26 +72,25 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog]()):
+Consequently, here are our current `operating virtues` (taken from our [blog](https://seedocblog.webflow.io/)):
 
 
-### 1. Table All The Things — `#tatt`
+### 1. Table All The Things — `#`
 Or, in other words, we “put everything out on the table” — the good, the bad, and most definitely the ugly. Information is the lifeblood of our business which is especially true in a distributed-first organization. This means that we share things in real-time: We don’t wait for the timing to be “perfect” and we’re comfortable with sharing incomplete, imperfect, and unpolished prose. 
 
 Consequently, this means that what we share is going to be, quite often, incomplete, imperfect, and in sore need of serious polishing — we treat all updates with respect, knowing of the courage required to share something that may make the person look foolish, silly, or even stupid. Instead, we engage graciously, responding to the update with the care and attention that we’d hope to receive if it was our own, knowing that they’ve successfully modeled this virtue with excellence.
 
-Finally, #tatt means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
+Finally, #sha means that we’ll often share things that are intensely personal and are only meant for those presently at our table. Everything shared in our communication tools should be held in the highest regard and with strict confidence.
 
 Our table is strong when trust is the foundation.
 
 
-### 2. Speed of Decision Making — `#sodm`
+### 2. Speed of Decision Making — `#`
 No bullshit: We are in a fight for our very survival and every single day we make life-altering decisions — sometimes, with very little data. Regardless, we agree with General Patton when he said “A good plan, violently executed now, is better than a perfect plan next week.” 
 
-That “plan”, by the way, is our first operating virtue, #tatt, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
+That “plan”, by the way, is our first operating virtue, #sha, because our team has mastered the art of communicating plainly the high-level context, the people involved, and the decision(s) that need to be made and by what time (and by whom). We clearly state if consensus or feedback is required and, with enough collective confidence that we can bear, we commit to the decision, even if we may personally disagree. We move the fastest when we are aligned, feelings aside.
 
-Otherwise, you should #tatt, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
-
+Otherwise, you should #sha, providing all the above data and informing the team of your decision with a request for specific people to keep you accountable — this simply means that you will do what you say you’ll do and you’re asking for support in keeping that commitment on track.
 
 
 
@@ -139,7 +135,7 @@ Young doctor, I graduated from the Faculty of Medicine and Biomedical Sciences o
 I am very happy to be able to bring my expertise to this project in order to bring it very high as an African achievement. I am also in service in a place where I practice my profession as a doctor in order to learn even more from my Peers.
 
 
-#### MMAMBA Ivan Christian - Co-Founder / CMO - [LinkedIn](#)
+#### MMAMBA Ivan Christian - Co-Founder / CMO - [LinkedIn](https://www.linkedin.com/in/christian-ivan-mmamba/)
 
 
 I'm the CMO, the Chief Marketing Officer. I don't just run the marketing department. Indeed, my primary objective is to achieve growth and I have an obligation to refer to the COOs and even the CEO. I can therefore intervene in the sales department to make the company more productive.
@@ -147,36 +143,14 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 #### Venture Capital Firms
 
-We're fortunate to have the financial support from the following (repeat!) venture firms:
-
-1. Outstanding — [X](#)
-2. Outstanding — [X](#)
-3. Outstanding  — [X](#)
-4. Outstanding — [X](#)
-5. Outstanding — [X](#)
-
-We also have a top-flight group of Angel Investors who act as both advisors and personal friends.
+1 - We have an investor who trusted us and decided to accompany us for 3 years. then we only need two other investors. [SeeDoc](http://dbaseedoc.herokuapp.com/)
 
 
 
 
+## Our Vision
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#🚀 Improving the health system with an ethical approach
 
 
 
@@ -187,33 +161,16 @@ We also have a top-flight group of Angel Investors who act as both advisors and 
 
 ## Our Story
 
-It all started in 2016 as a small, personal challenge: I ([John](#)) wanted to try my hand at a `daily vlog`, uploading _at least_ one YouTube video every day for an entire year. It was hard af and, to make a very long story short, I was able to finish the project but only with my brother's ([Peter](#)) help: He provided a ton of accountability, inspiration, and encouragement so that I could make it to the end.
-
-And... it worked! Just not in the way that I had planned or expected. You see, while my personal channel was growing by a few subscribers _every other day_, my brother's channel was winning new followers _every few minutes_ (he crossed 1,000 subs in < week)! Needless to say, we both felt like we were on to something exciting.
-
-Starting in `#defi`, we built a number of digital products including educational websites, web and native apps, and most importantly a **passionate community** that kept us hungry, encouraged, and plugged-in to their needs. Our momentum helped us raise 2 rounds of venture funding which, in turn, allowed us to add much-needed internal community members (i.e. staff). 
-
-Our last pivot in [Q4 of 2020](#) was the most dramatic, taking everything we learned in the first few years and applying them smartly to the next evolution of our product and company as we explore the potential and power of `community` and `community data` for businesses of all shapes and sizes!
+SeeDoc is a project that is born in 2018 in a funny way, at that time I'm a master1 student in computer science. During a class with one of our professor he mentions a project that he asked these students to realize four years ago today and nobody listened to him. I am sitting in this university listening to my professor who insists on the realization of this project which according to him is promising, me with my past experience I had first worked two years before leaving to do a master cycle I listen to this remark made today in the room and suddenly everything is gone. at this moment I have not yet worked on a project on health, I wonder so many questions on how to approach the subject to realize it. I'm doing research on functional health projects in order to have several approaches on the design of such a product. I manage to find health solutions that work and there I only think of one thing: reverse engineering. I continue to research myself starting to create version 1 with which I participated in the challenge launched by total and I managed to rank in the top 100. a great experience that led me to move to a higher level and to do better for the future. i continued to work on the next version with which i suffered failures, failures that made me more resilient in my work. i continued to progress and with time i was able to find the necessary technologies to carry out this project and i'm going ahead. to this day this project to win challenges:
 
 
+1 - Startup Istanbul where I'm invited to present my project in October 2020.
 
+2 - TEF2020 organized by the Tony Elumelu Foundation I am also pre-selected to follow a training of entrepreneurs to benefit from a funding of $5000.
 
+3 - You’ve been accepted: MongoDB COVID-19 Atlas Credit Program.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It's an adventure in which I started on my own but along the way I was able to find co-founders with whom we've been working together to date. The launch of the SeeDoc project is scheduled for May 10th, its official release.
 
 
 
@@ -248,60 +205,6 @@ Here are a few things that aren't immediately obvious about us and our team.
 **My Meeting, My Notes**
 
 - When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
