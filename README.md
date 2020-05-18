@@ -176,6 +176,8 @@ SeeDoc is a project that is born in 2018 in a funny way, at that time I'm a mast
 
 It's an adventure in which I started on my own but along the way I was able to find co-founders with whom we've been working together to date. The launch of the SeeDoc project is scheduled for May 10th, its official release.
 
+4 - You're Invited to Be Curious With the 2020 Harvard Innovation Labs President’s Innovation Challenge.
+
 
 
 
