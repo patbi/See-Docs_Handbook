@@ -126,7 +126,7 @@ Otherwise, you should #sha, providing all the above data and informing the team 
 
 Holder of a bachelor's degree in computer science since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
 
-#### Helene Julienne Bikat Ayissi - Co-Founder / Doctor - [LinkedIn](#)
+#### Helene Julienne Bikat Ayissi - Co-Founder / Doctor - [LinkedIn](https://www.linkedin.com/in/helene-julienne-bikat-ayissi/)
 
 
 Young doctor, I graduated from the Faculty of Medicine and Biomedical Sciences of Yaoundé. I like working on projects and doing research that can improve our daily lives. 
