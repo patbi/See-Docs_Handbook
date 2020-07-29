@@ -141,7 +141,7 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 #### Venture Capital Firms
 
-1 - We have an investor who trusted us and decided to accompany us for 3 years. then we only need two other investors. [SeeDoc](http://dbaseedoc.herokuapp.com/)
+1 - We have an investor who trusted us and decided to accompany us for 3 years. then we only need two other investors. [SeeDoc](http://see-docs.com/)
 
 
 
@@ -149,6 +149,8 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 ## Our Vision
 
 #🚀 Improving the health system with an ethical approach
+
+[SeeDoc](https://patbi.hashnode.dev/seedoc-launch-ck9xzxvnu027ho9s1o36pll6p)
 
 
 
