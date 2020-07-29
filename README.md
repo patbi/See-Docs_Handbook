@@ -126,12 +126,6 @@ Otherwise, you should #sha, providing all the above data and informing the team 
 
 Holder of a bachelor's degree in computer science since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
 
-
-#### Amir Hossein Movahedi - Co-Founder | Head of Engineering - [Github](https://github.com/Qolzam)
-
-I am a passionate and creative software engineer. I have been involved in the design and implementation of many software projects, including modern web applications, mobile applications, desktop applications. Currently my focus is on distributed system and cloud infrastructure. My interests range from entrepreneurship to food. I am also interested in technology, innovation, and technology education. In my spare time I am working on aeroponic and safe energy, saving the world resources. Also making IOT technology simple for teaching to new generation. 
-
-
 #### Helene Julienne Bikat Ayissi - Co-Founder / Doctor - [LinkedIn](#)
 
 
@@ -170,13 +164,11 @@ SeeDoc is a project that is born in 2018 in a funny way, at that time I'm a mast
 
 1 - Startup Istanbul where I'm invited to present my project in October 2020.
 
-2 - TEF2020 organized by the Tony Elumelu Foundation I am also pre-selected to follow a training of entrepreneurs to benefit from a funding of $5000.
-
-3 - You’ve been accepted: MongoDB COVID-19 Atlas Credit Program.
+2 - You’ve been accepted: MongoDB COVID-19 Atlas Credit Program.
 
 It's an adventure in which I started on my own but along the way I was able to find co-founders with whom we've been working together to date. The launch of the SeeDoc project is scheduled for May 10th, its official release.
 
-4 - You're Invited to Be Curious With the 2020 Harvard Innovation Labs President’s Innovation Challenge.
+3 - You're Invited to Be Curious With the 2020 Harvard Innovation Labs President’s Innovation Challenge.
 
 
 
