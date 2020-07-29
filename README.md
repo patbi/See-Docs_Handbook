@@ -150,7 +150,7 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 #🚀 Improving the health system with an ethical approach
 
-[SeeDoc](https://patbi.hashnode.dev/seedoc-launch-ck9xzxvnu027ho9s1o36pll6p)
+[SeeDoc vision](https://patbi.hashnode.dev/seedoc-launch-ck9xzxvnu027ho9s1o36pll6p)
 
 
 
