@@ -1,5 +1,5 @@
 # Our Company Handbook
-*A Collaborative Handbook for our SeeDoc Team & Community*
+*A Collaborative Handbook for our See-Docs Team & Community*
 
 This repository serves these purposes:
 
@@ -72,7 +72,7 @@ Ben Horowitz via his book [What You Do is Who You Are](https://amzn.to/338OBm7) 
 >
 >The reason so many efforts to establish “corporate values” are basically worthless is that they emphasize beliefs instead of actions. Culturally, what you believe means nearly nothing. What you do is who you are.
 
-Consequently, here are our current `operating virtues` (taken from our [blog](https://seedocblog.webflow.io/)):
+Consequently, here are our current `operating virtues` (taken from our [newsletter](https://seedoc.substack.com/)):
 
 
 ### 1. Table All The Things — `#`
@@ -122,9 +122,18 @@ Otherwise, you should #sha, providing all the above data and informing the team 
 
 ## Our Team
 
-#### Patrick Biyaga - Founder | CEO / Engineering - [LinkedIn](https://www.linkedin.com/in/patrickbiyaga/)
+#### Patrick Biyaga - Founder | CTO / Engineering - [LinkedIn](https://www.linkedin.com/in/patrickbiyaga/)
 
-Holder of a bachelor's degree in computer science since 2014 but also a general master's degree in cybersecurity and network solutions in 2019, I naturally have a solid knowledge of computer science thanks also to the parallel scholarship programs launched by Andela in partnership with major international firms such as Google, Facebook I have acquired a master's degree in programming and project construction. Passionate since my teenage years, I love new technologies, constantly on the lookout for new technologies and programming techniques, I participate in making this world a better place by building sustainable products.
+I am an engineer in cybersecurity and network solutions, web developer, and project manager currently living in Cameroon. My interests range from technology to entrepreneurship. I am also interested in web development, innovation, and programming.
+
+
+💬💻 I am a freelance web developer who from the client's need makes a prototype that is tested, validated and delivered. I have done and am doing missions as a consultant in a local accounting firm.
+
+📚 My project, Thenavigo: is an online question and answer community. It is built in a conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, is for anyone working for themselves, but also for any everyday learner. It is highly valued by our beta testers with whom we are building and will build over time. It is available now: http://thenavigo.com
+
+🎙 I host our Youtube channel Thenavigo on all things new technologies. I talk about the technologies I use on a daily basis in my weekly publications. I present my work, my challenges and my success.
+
+💌 I write the newsletter called, See-Docs, about the ups and downs of working for yourself.
 
 
 #### MMAMBA Ivan Christian - Co-Founder / CMO - [LinkedIn](https://www.linkedin.com/in/christian-ivan-mmamba/)
@@ -135,7 +144,7 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 #### Venture Capital Firms
 
-1 - We have an investor who trusted us and decided to accompany us for 3 years. then we only need two other investors. [SeeDoc](http://see-docs.com/)
+1 - We have an investor who trusted us and decided to accompany us for 3 years. then we only need two other investors. [See-Docs](http://see-docs.com/)
 
 
 
@@ -144,7 +153,7 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 #🚀 Improving the health system with an ethical approach
 
-[SeeDoc vision](https://patbi.hashnode.dev/seedoc-launch-ck9xzxvnu027ho9s1o36pll6p)
+[See-Docs vision](https://seedoc.substack.com/p/la-valeur-ajoute-de-see-docs-au-quotidien)
 
 
 
@@ -155,19 +164,15 @@ I'm the CMO, the Chief Marketing Officer. I don't just run the marketing departm
 
 ## Our Story
 
-SeeDoc is a project that is born in 2018 in a funny way, at that time I'm a master1 student in computer science. During a class with one of our professor he mentions a project that he asked these students to realize four years ago today and nobody listened to him. I am sitting in this university listening to my professor who insists on the realization of this project which according to him is promising, me with my past experience I had first worked two years before leaving to do a master cycle I listen to this remark made today in the room and suddenly everything is gone. at this moment I have not yet worked on a project on health, I wonder so many questions on how to approach the subject to realize it. I'm doing research on functional health projects in order to have several approaches on the design of such a product. I manage to find health solutions that work and there I only think of one thing: reverse engineering. I continue to research myself starting to create version 1 with which I participated in the challenge launched by total and I managed to rank in the top 100. a great experience that led me to move to a higher level and to do better for the future. i continued to work on the next version with which i suffered failures, failures that made me more resilient in my work. i continued to progress and with time i was able to find the necessary technologies to carry out this project and i'm going ahead. to this day this project to win challenges:
+Patrick Biyaga started coding for fun, creating applications for his friends, then doing IT services. About seven years ago, I started freelancing as a web developer for startups and ONG(s). I created a lot of applications, and then someone gave me the idea to always have my own personal project, a suggestion that had a big impact on my career and my local community. Today, I am a web developer at See-Docs and Thenavigo.
 
 
-1 - Startup Istanbul where I'm invited to present my project in October 2020.
-
-2 - You’ve been accepted: MongoDB COVID-19 Atlas Credit Program.
-
-It's an adventure in which I started on my own but along the way I was able to find co-founders with whom we've been working together to date. The launch of the SeeDoc project is scheduled for May 10th, its official release.
-
-3 - You're Invited to Be Curious With the 2020 Harvard Innovation Labs President’s Innovation Challenge.
+![Preview](https://github.com/patbi/See-Docs_Handbook/blob/master/awesome.PNG)
 
 
+After seven years of building apps for startups, in between alumni, I asked myself, "Why not explore the founding solo journey by creating the See-Docs and Thenavigo platforms, since I'm a web developer? We don't have any healthcare apps in my community, but in the big city, there are tons."
 
+I took the challenge and created these simple healthcare and (educational) applications for local patients in Cameroon, which I call See-Docs | Thenavigo! Patients have a quality service at their fingertips and it is free. "My goal is to provide this service to this community and to start making progress with our users, and potential paying users", "Today we have potential partners interested in our projects to make them high potential projects.
 
 
 
@@ -179,48 +184,6 @@ It's an adventure in which I started on my own but along the way I was able to f
 
 
 ## Cultural Quirks
-
-Here are a few things that aren't immediately obvious about us and our team.
-
-**How we refer to ourselves**
-
-- Legally, we are `ROFLCOPTER, INC.` But other than legal docs, you’ll rarely see this.
-- Most commonly, we refer to team, project, company as our core product, SeeDoc.
-- SeeDoc (all caps) is not an acronym.
-- You’ll also see accounts under [#](#) or `SeeDocio` or `SeeDocFTW` or `SeeDoc` (sometimes we couldn’t get just SeeDoc)
-- If "SeeDoc" is combined with another word, it's not capitalized (e.g. `SeeDocIQ`)
-
-**Some terms you’ll see tossed around:**
-
-- `SeeDocizen` - Members of our amazing community
-- `SeeDociverse` - What we're building as well as our community space
-- `SeeDoci` or `SeeDocni` (what community members named the company mascot, the [SeeDocicorn](#))
-
-**My Meeting, My Notes**
-
-- When you call or 'own' the meeting, you are responsible for taking notes and dispersing them along with action items after the meeting so those who weren't able to attend are made aware. We usually just drop those in Slack post-meeting.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -249,15 +212,15 @@ Right now, we use the following tools to discuss the Handbook:
 
 This Employee Handbook describes the employment policies applicable to all employees of the Company. Where there are differences in the terms applicable to employees in different jurisdictions, the differences are noted in the Handbook. This Handbook is not a contract, express or implied, guaranteeing employment for any specific duration.
 
-This Handbook is designed to familiarize employees with the employment policies of SeeDoc. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by SeeDoc to benefit its employees.
+This Handbook is designed to familiarize employees with the employment policies of See-Docs. Employees should read, understand, and comply with all provisions of the Handbook. It describes many of the responsibilities of an employee and outlines the programs developed by See-Docs to benefit its employees.
 
-No Employee Handbook can anticipate every circumstance or question about policy. As SeeDoc continues to grow and as business needs, employment legislation and economic conditions change, SeeDoc reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
+No Employee Handbook can anticipate every circumstance or question about policy. As See-Docs continues to grow and as business needs, employment legislation and economic conditions change, See-Docs reserves the right to revise, supplement, or rescind any policies or portion of the Handbook from time to time as it deems appropriate, in its sole and absolute discretion. No statement or promise by any other member of the Company can be interpreted as a change in policy nor will it constitute an agreement with an employee. Employees will be notified of such changes to the Employee Handbook as they occur.
 
-Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous SeeDoc Employee Handbooks or other SeeDoc policies, whether written or oral.
+Should there be any discrepancy between the Handbook and other documents of the Company, the policies incorporated in the Handbook shall govern. This Employee Handbook supersedes any and all other previous See-Docs Employee Handbooks or other See-Docs policies, whether written or oral.
 
-Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between SeeDoc and any of its employees. No person can enter into an employment contract with SeeDoc for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
+Policies set forth in this Handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between See-Docs and any of its employees. No person can enter into an employment contract with See-Docs for a specified period of time or make any agreement contrary to this policy without written approval from CEO.
 
-The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at SeeDoc’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “SeeDoc”.
+The provisions of the handbook have been developed at the discretion of management and may be audited, amended or cancelled at any time, at See-Docs’s sole discretion. Whenever the word “Company” is used, it refers to the employer, “See-Docs”.
 
 
 
